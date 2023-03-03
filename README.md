@@ -1,6 +1,6 @@
 
 
-# AdvancedNxWorkspace
+# AdvancedNxWorkspace XXXXXXX
 
 This project was generated using [Nx](https://nx.dev).
 
