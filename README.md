@@ -92,7 +92,7 @@ Visit the [Nx Documentation](https://nx.dev/angular) to learn more.
 
 
 
-## ☁ Nx Cloud
+## ☁ Nx Cloud (not yet)
 
 ### Computation Memoization in the Cloud
 
